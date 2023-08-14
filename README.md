@@ -10,19 +10,8 @@
 - Открыт для новых знаний и возможностей
 
 - ## Навыки и технологии
-- Jira
-- qase.io
-- SQL
-- Postman
-- Fiddler
-- Swagger
-- Trello
-- SoapUI
-- Android Studio
-- xCode
-- Charles
-- Git
-- Chrome DevTools
+- Jira - qase.io - SQL - Postman - Fiddler - Swagger - Trello
+- SoapUI - Android Studio- xCode - Charles - Git - Chrome DevTools
 ## Проекты
 
 ### Проект 1: Тест личного кабинета для учителей от Skyeng.
